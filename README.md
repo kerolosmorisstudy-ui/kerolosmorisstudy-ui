@@ -2,6 +2,7 @@
 <h3 align="center">.NET Backend Developer | Angular Frontend | Information Systems Student</h3>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/kerolos-moris-a2b568394">
 <img src="https://img.shields.io/badge/LinkedIn-Kerolos%20Moris-blue?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -9,6 +10,11 @@
 <a href="https://github.com/kerolosmorisstudy-ui">
 <img src="https://img.shields.io/badge/GitHub-kerolosmorisstudy--ui-black?style=for-the-badge&logo=github"/>
 </a>
+
+<a href="mailto:kerolosmoris.study@gmail.com">
+<img src="https://img.shields.io/badge/Email-kerolosmoris.study%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
@@ -23,7 +29,7 @@
 - 🔭 Currently improving my **Full Stack Development Skills**  
 - 🌱 Learning more about **ASP.NET Core, Web APIs, and Software Architecture**  
 - 💬 Ask me about **C#, .NET, SQL Server, Angular**  
-- 📫 Reach me on **LinkedIn**
+- 📫 Reach me at **kerolosmoris.study@gmail.com**
 
 ---
 
